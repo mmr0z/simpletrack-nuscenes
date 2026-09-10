@@ -1,0 +1,14 @@
+.venv-simpletrack/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+tracking_results*/
+tracking_visualizations/
+simpletrack_nuscenes_2hz*/
+.env
+.env.*
+*.egg-info/
+build/
+dist/
+.agents/
+.codex/
